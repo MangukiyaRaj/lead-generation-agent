@@ -13,7 +13,7 @@ This dashboard identifies, enriches, and ranks potential customers based on **Pr
 
 # Load Data
 try:
-    df = pd.read_csv('leads_data.csv')
+df = pd.read_csv('leads_data_final.csv')
 except FileNotFoundError:
     st.error("Data file not found. Please run the data generation script first.")
     st.stop()
@@ -30,3 +30,4 @@ if location_filter:
 
 # Main Table
 st.dataframe(filtered_df)
+
