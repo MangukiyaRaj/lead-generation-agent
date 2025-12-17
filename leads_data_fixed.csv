@@ -1,0 +1,9 @@
+Name,Title,Company,Location_Person,Location_HQ,Email,Funding_Series_A_B,Uses_In_Vitro_Tech,Published_Paper_DILI,LinkedIn_URL,Propensity_Score,Work_Type
+Dr. Scientist_1,Director of Toxicology,Pfizer,Boston MA,Boston MA,contact1@company.com,True,True,True,https://linkedin.com,100,On-Site
+Dr. Scientist_2,Head of Preclinical Safety,Moderna,Cambridge MA,Cambridge MA,contact2@company.com,True,False,True,https://linkedin.com,90,On-Site
+Dr. Scientist_3,Junior Scientist,BioTech Startup A,London UK,London UK,contact3@company.com,False,True,False,https://linkedin.com,15,On-Site
+Dr. Scientist_4,VP Safety Assessment,Genentech,San Francisco CA,San Francisco CA,contact4@company.com,True,True,False,https://linkedin.com,65,On-Site
+Dr. Scientist_5,Director of Hepatic Models,Novartis,Basel Switzerland,Basel Switzerland,contact5@company.com,True,True,True,https://linkedin.com,100,On-Site
+Dr. Scientist_6,Research Assistant,Small Uni Lab,Austin TX,Boston MA,contact6@company.com,False,False,False,https://linkedin.com,0,Remote
+Dr. Scientist_7,Toxicology Lead,HealthCo,Denver CO,Cambridge MA,contact7@company.com,True,True,False,https://linkedin.com,55,Remote
+Dr. Scientist_8,Head of Safety,BioTech Startup B,Remote,San Francisco CA,contact8@company.com,True,False,True,https://linkedin.com,70,Remote
